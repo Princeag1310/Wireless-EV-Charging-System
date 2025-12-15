@@ -129,35 +129,30 @@ Wireless-EV-Charging-System/
 ├── README.md
 │
 ├── docs/
-│ ├── Proposal.pdf
-│ ├── Final_Presentation.pptx
+│   ├── Proposal.pdf
+│   └── Final_Presentation.pptx
 │
 ├── images/
-│ ├── prototype/
-│ │ ├── prototype_overview.jpg
-│ │ ├── static_charging.jpg
-│ │ └── dynamic_charging.jpg
-│ │
-│ └── circuit_diagrams/
-│ ├── static_charging_circuit.png
-│ └── dynamic_charging_circuit.png
+│   ├── prototype/
+│   │   ├── prototype_overview.jpg
+│   │   ├── static_charging.jpg
+│   │   └── dynamic_charging.jpg
+│   │
+│   └── circuit_diagrams/
+│       ├── static_charging_circuit.png
+│       └── dynamic_charging_circuit.png
 │
 ├── code/
-│ ├── static_charging/
-│ │ └── static_charging.ino
-│ │
-│ └── dynamic_charging/
-│ └── dynamic_charging.ino
+│   ├── static_charging/
+│   │   └── static_charging.ino
+│   │
+│   └── dynamic_charging/
+│       └── dynamic_charging.ino
 │
 ├── video/
-│ └── demo_video.mp4
+│   └── demo_video.mp4
 │
 └── LICENSE
-
-yaml
-Copy code
-
----
 
 ## 💻 Arduino Implementation
 
