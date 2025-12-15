@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Project Summary (Recruiter-Friendly)
+## 🚀 Project Summary
 
 This repository contains a **hardware–software integrated prototype** of a  
 **Wireless Electric Vehicle (EV) Charging System** using **inductive power transfer**.
