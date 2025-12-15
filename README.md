@@ -124,6 +124,7 @@ This principle was first proposed by **Nikola Tesla (1896)**.
 
 ## 📁 Repository Structure
 
+```text
 Wireless-EV-Charging-System/
 │
 ├── README.md
@@ -153,6 +154,7 @@ Wireless-EV-Charging-System/
 │   └── demo_video.mp4
 │
 └── LICENSE
+```
 
 ## 💻 Arduino Implementation
 
