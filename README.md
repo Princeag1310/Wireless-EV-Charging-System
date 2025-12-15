@@ -128,9 +128,18 @@ This principle was first proposed by **Nikola Tesla (1896)**.
 Wireless-EV-Charging-System/
 │
 ├── README.md
+├── LICENSE
+│
+├── code/
+│   ├── static_charging/
+│   │   └── static_charging.ino
+│   │
+│   └── dynamic_charging/
+│       └── dynamic_charging.ino
 │
 ├── docs/
 │   ├── Proposal.pdf
+│   ├── Project_Report.pdf
 │   └── Final_Presentation.pptx
 │
 ├── images/
@@ -140,15 +149,9 @@ Wireless-EV-Charging-System/
 │   │   └── dynamic_charging.jpg
 │   │
 │   └── circuit_diagrams/
+│       ├── coil_circuit.png
 │       ├── static_charging_circuit.png
 │       └── dynamic_charging_circuit.png
-│
-├── code/
-│   ├── static_charging/
-│   │   └── static_charging.ino
-│   │
-│   └── dynamic_charging/
-│       └── dynamic_charging.ino
 │
 ├── video/
 │   └── demo_video.mp4
